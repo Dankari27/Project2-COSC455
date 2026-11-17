@@ -1,0 +1,16 @@
+# Rust build output
+rust/target/
+
+# Racket build output
+compiled/
+
+# Backup and temp files
+*.bak
+*~
+~$*
+
+# Editor and system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
